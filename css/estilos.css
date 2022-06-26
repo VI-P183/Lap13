@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(162, 95, 226, 0.992);
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold
+}
+h1{
+    color: rgba(34, 255, 22, 0.941);
+    text-shadow: 4px 5px 5px rgb(0, 0, 0), 0 0 35px rgb(75, 252, 21), 0 0 ;
+    text-align: center;
+    margin: 9px;
+    padding: 9px;
+}
+h2{
+    color: rgb(237, 233, 26);
+    text-shadow: 3px 5px 5px rgb(15, 15, 12), 0 0 25px rgba(20, 19, 18, 0.871), 0 0 ;
+}
+.container-fluid{
+    background-color: rgb(19, 24, 28);
+    padding: 10px;
+}
+.container-fluid img{
+    padding: 10px;
+}
+
+.nav-item{
+    color: rgb(8, 252, 4);
+    text-shadow: 1px 2px 2px rgb(190, 245, 194), 0 0 25px rgb(32, 232, 142), 0 0 ;
+}
+.sect1{
+    text-align: center;
+}
+.sect1 img{
+    width: 50%;
+    height: 50%;
+}
+.div1{
+    width: 100%;
+    border: 4px solid rgb(81, 247, 39);
+    border-radius: 20px 0px 20px 0px;
+    margin: 10px;
+    padding: 10px;
+}
+.carousel-item.active img{
+    width: 700px;
+    height: 700px;
+}
+.GG{
+    padding: 7px;
+    margin: 7px;
+}
+
